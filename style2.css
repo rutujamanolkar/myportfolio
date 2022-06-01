@@ -1,0 +1,48 @@
+body{
+margin: 0%;
+padding: 0%;
+background-color: black;
+}
+.div{
+
+    border: 1px solid gray;
+    text-align: center;
+    margin: 450px;
+    margin-top: 40px;
+    box-shadow: 2px 2px 10px white;
+
+
+}
+.head{
+background-color: gray;
+margin-top: 0px;
+padding: 10px;
+
+
+}
+
+
+.label{
+    color: gray;
+    text-align: left;
+    margin-left: 130px;
+}
+.input{
+    border: 1px solid gray;
+    background-color: black;
+    color:white;
+    padding: 7px;
+}
+.submit{
+    padding: 15px;
+    width: 150px;
+    background-color: black;
+    color:gray;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.submit:hover{
+    background-color: gray;
+    color: white;
+    
+}
